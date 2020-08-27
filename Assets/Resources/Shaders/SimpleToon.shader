@@ -2,7 +2,7 @@
 {
     Properties
     {
-        _LineWidth( "Line Width", Range( 0.0, 10.0 ) ) = 0.01
+        _LineWidth( "Line Width", Range( 0.0, 0.01 ) ) = 0.01
         _LineColor( "Line Color", Color ) = ( 0.0, 0.0, 0.0, 1.0 )
 
         _MainTex( "MainColor Texture", 2D ) = "white" {}

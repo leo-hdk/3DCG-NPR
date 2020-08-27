@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{26DB1616-5A4C-4642-CD02-A0E3064E4A68}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Shaders/SimpleToon.shader">
+    <Files>
+      <File FileName="Assets/Resources/Shaders/SimpleToon.shader" Line="58" Column="116" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ddfdd8b-e091-4390-841d-7f52523214ef" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
